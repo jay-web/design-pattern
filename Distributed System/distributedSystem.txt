@@ -1,0 +1,13 @@
+// DISTRIBUTED SYSTEM
+
+Any system which includes muliple components residing on multiple machines coordinating
+through some sort of  mechanism like sending messages to achieve a common goal is a 
+distributed system.
+
+3 Principle of DISTRIBUTED SYSTEM
+
+1: Single Responsiblity Principle.
+
+2: No single point of failure Principle;
+
+3: No bottle neck Principle.
